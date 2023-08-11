@@ -1,6 +1,6 @@
 import './App.css'
 import phrases from './data/phrases.json'
-import UserCard from './component/FortuneCard'
+import UserCard from './components/UserCard'
 import fondo1 from '/images/fondo1.2.jpg'
 import fondo2 from '/images/fondo2.2.jpg'
 import fondo3 from '/images/fondo3.2.jpg'
